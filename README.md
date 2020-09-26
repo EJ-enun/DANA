@@ -1,2 +1,2 @@
 # DANA
-Derived Adroit Numerical Algorithm 
+Derived Adroit Numerical Algorithm.
